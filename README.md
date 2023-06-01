@@ -1,6 +1,6 @@
 ## ⭐ Financial Dashboard test App ⭐
 
-## 🔗 Live URL: <a href="https://movie-list-vuxm.onrender.com">🍿 Movie Watch List 🎬</a>
+## 🔗 Live URL: <a href="https://movie-list-vuxm.onrender.com">📊 Finance dashboard</a>
 
 [![Render Status](https://api.netlify.com/api/v1/badges/1c7a3caa-d0f7-4e66-af82-49c8f6b5eed3/deploy-status)](https://app.netlify.com/sites/pymovie-joao/deploys)
 
@@ -13,7 +13,7 @@
 
 ## 📸 Overview
 
-![Screenshot](./assets/img/financialDash.gif?raw=true "Financial Dash")
+![Screenshot](./assets/img/financialDash.gif?raw=true "Financial dashboard")
 
 ## 📡 Architecture
 
