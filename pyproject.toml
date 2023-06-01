@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "dashboard"
+version = "0.1.0"
+description = "dashboard in python"
+authors = ["joao martins"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+dash = "^2.10.1"
+black = "^23.3.0"
+flake8 = "^6.0.0"
+pre-commit = "^3.3.2"
+dash-bootstrap-components = "^1.4.1"
+pandas = "^2.0.2"
+babel = "^2.12.1"
+pyyaml = "^6.0"
+plotly = "^5.14.1"
+pandas-stubs = "^2.0.1.230501"
+python-i18n = "^0.3.9"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
