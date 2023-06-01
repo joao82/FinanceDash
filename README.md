@@ -1,9 +1,5 @@
 ## ⭐ Financial Dashboard test App ⭐
 
-## 🔗 Live URL: <a href="https://movie-list-vuxm.onrender.com">📊 Finance dashboard</a>
-
-[![Render Status](https://api.netlify.com/api/v1/badges/1c7a3caa-d0f7-4e66-af82-49c8f6b5eed3/deploy-status)](https://app.netlify.com/sites/pymovie-joao/deploys)
-
 ## 📌 Tech Stack
 
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joao82)&nbsp;
